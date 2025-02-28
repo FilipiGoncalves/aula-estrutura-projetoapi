@@ -4,6 +4,11 @@
 
 > Objetivo: cadastrar informações em um banco de dados em memória.
 
+## Informações Adicionais
+
+> Verificar se todos os imports foram clonados.
+> Sempre estar atento as mensagens de confirmação deixadas pelo código para verificar onde o programa se encontra.
+
 ## Clonando...
 
 - `cd caminho_da_pasta`
