@@ -2,7 +2,7 @@
 
 É um projeto proposto para ser clonado e reutilizado.
 
-> _Objetivo: cadastrar informações em um banco de dados em memória.
+> Objetivo: cadastrar informações em um banco de dados em memória.
 
 ## Clonando...
 
