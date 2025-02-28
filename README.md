@@ -7,6 +7,7 @@
 ## Informações Adicionais
 
 > Verificar se todos os imports foram clonados.
+
 > Sempre estar atento as mensagens de confirmação deixadas pelo código para verificar onde o programa se encontra.
 
 ## Clonando...
