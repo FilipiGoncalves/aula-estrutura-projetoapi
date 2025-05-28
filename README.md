@@ -113,7 +113,8 @@ As requisições ao endpoint POST /info/criar exigem autenticação com usuário
 - Página Edição - Edição de Dados
 ![image](https://github.com/user-attachments/assets/aa382824-66a8-4fa5-b23b-929dd7fb4b14)
 - Mensagem Exclusão
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c76f642a-9471-41c0-9b7a-986b4133dfd7)
+
 
 
 
