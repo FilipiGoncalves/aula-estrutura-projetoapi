@@ -99,6 +99,30 @@ As requisições ao endpoint POST /info/criar exigem autenticação com usuário
 
 ---
 
+## 🌆 Telas do Projeto
+
+- Página Inicial
+![image](https://github.com/user-attachments/assets/7138248d-05d8-4c9c-a5f5-0329c768788c)
+- Página Cadastro - Criação
+![image](https://github.com/user-attachments/assets/20d8a36c-0a59-4afb-bf5d-74d31efedbb0)
+![image](https://github.com/user-attachments/assets/d34336a3-3f65-49f7-803a-bb2a74d4b7db)
+- Página Inicial - Usuário Criado
+![image](https://github.com/user-attachments/assets/7d1fdbd6-8a05-4f86-bb0c-6cc2001ec5f5)
+- Página Informações - Inserção de Dados
+![image](https://github.com/user-attachments/assets/6a753488-cccb-44ef-885e-671f3664d4e6)
+- Página Edição - Edição de Dados
+![image](https://github.com/user-attachments/assets/aa382824-66a8-4fa5-b23b-929dd7fb4b14)
+- Mensagem Exclusão
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
 ## 📚 Licença
 Este projeto é destinado para fins acadêmicos e aprendizado.
 Todos os direitos reservados a Filipi Mantelato Gonçalves e Lucas Leite Vieira.
